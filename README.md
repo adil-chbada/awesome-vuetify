@@ -32,6 +32,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 ## Projects using Vuetify
 
 ### Open source
+- [laravel-starter-kit](https://github.com/darryldecode/laravel-starter-kit) - Laravel Starter Kit is based on Laravel 5.6 and VueJS + Material design(Vuetify)
 - [Open API](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - a Firebase-like theme built with Vuetify
